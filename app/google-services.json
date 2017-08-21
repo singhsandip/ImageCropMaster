@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "534801977986",
+    "project_id": "image-crop-master"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534801977986:android:96625903c4bae81c",
+        "android_client_info": {
+          "package_name": "com.sandeep.imagecropmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534801977986-hkirhe8idqtabv2ulu7vrb2pd8u87ubp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sandeep.imagecropmaster",
+            "certificate_hash": "44d369e67e85afb1aacfbc458c98a7e423efef1a"
+          }
+        },
+        {
+          "client_id": "534801977986-cqusse5ue4bjaogcc5scj7fgmsuvnr1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-5LrfCz4VADT25zEsoicK9R0UtgZv4bQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
